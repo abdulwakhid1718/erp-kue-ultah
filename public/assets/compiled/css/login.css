@@ -1,0 +1,14 @@
+.login-container {
+    margin-top: 100px;
+    max-width: 400px;
+}
+.login-form {
+    width: 100%;
+    padding: 30px;
+    background: #d2d9ff;
+    border-radius: 10px;
+    box-shadow: 6px 8px 10px rgba(0, 0, 0, 0.1);
+}
+.login-form .form-control {
+    border-radius: 5px;
+}
